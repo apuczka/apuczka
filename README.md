@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @apuczka
+- 👋 Hi, I’m Angelika Puczka
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Front End Web Developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Contact me: a.puczka@icloud.com
 
 <!---
 apuczka/apuczka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
